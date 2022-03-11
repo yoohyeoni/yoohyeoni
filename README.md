@@ -1,4 +1,4 @@
-### Hello! I'm Hyeoni Yoo
+### Hello! 👋🏻  I'm Hyeoni Yoo !
 
 I'm Junior Back-end Developer
 
